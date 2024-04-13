@@ -1,0 +1,107 @@
+{
+    "Forward": [
+        {
+            "name": "Anelka",
+            "full_name": "Nicolas Sebastien Anelka",
+            "country_id": "6",
+            "position": "Forward",
+            "number": [
+                "19"
+            ],
+            "appearances": "33",
+            "goals": "7"
+        },
+        {
+            "name": "Asensio",
+            "full_name": "Marco Asensio Willemsen",
+            "country_id": "1",
+            "position": "Forward",
+            "number": [
+                "11",
+                "20",
+                "28"
+            ],
+            "appearances": "286",
+            "goals": "61"
+        },
+        {
+            "name": "Bale",
+            "full_name": "Gareth Bale",
+            "country_id": "13",
+            "position": "Forward",
+            "number": [
+                "11",
+                "18"
+            ],
+            "appearances": "258",
+            "goals": "106"
+        },
+        {
+            "name": "Benzema",
+            "full_name": "Karim Benzema",
+            "country_id": "6",
+            "position": "Forward",
+            "number": [
+                "11",
+                "9"
+            ],
+            "appearances": "648",
+            "goals": "354"
+        },
+        {
+            "name": "Butragueno",
+            "full_name": "Emilio Butragueno Santos",
+            "country_id": "1",
+            "position": "Forward",
+            "number": [
+                "7",
+                "8",
+                "9",
+                "11",
+                "14",
+                "16"
+            ],
+            "appearances": "569",
+            "goals": "171"
+        }
+    ],
+    "Defender": [
+        {
+            "name": "Arbeloa",
+            "full_name": "Alvaro Arbeloa Coca",
+            "country_id": "1",
+            "position": "Defender",
+            "number": [
+                "17",
+                "2",
+                "26"
+            ],
+            "appearances": "238",
+            "goals": "6"
+        },
+        {
+            "name": "Cannavaro",
+            "full_name": "Fabio Cannavaro",
+            "country_id": "2",
+            "position": "Defender",
+            "number": [
+                "5"
+            ],
+            "appearances": "106",
+            "goals": "1"
+        }
+    ],
+    "Midfielder": [
+        {
+            "name": "Beckham",
+            "full_name": "David Robert Joseph Beckham",
+            "country_id": "9",
+            "position": "Midfielder",
+            "number": [
+                "23"
+            ],
+            "appearances": "159",
+            "goals": "20"
+        }
+    ]
+}
