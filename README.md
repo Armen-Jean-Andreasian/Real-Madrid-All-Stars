@@ -45,6 +45,10 @@ All data is kept in json format: Example:
   ]
 }
 ```
+The files [real_madrid.json](real_madrid.json) and [countries.json](countries.json) the most important ones.
+Btw they will be updated by the time. However, if you want to participate in the project by adding legends only.
+
+This project has no licence.
 
 [![Watch the video](https://i.ytimg.com/vi/rtYDRwfPXKM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCBIX_AdFbSeyH8Fi6vQ6F78oDtwg)](https://youtu.be/Yc-7IQqcqeM?si=MufgRRxBI-yEOEc1)
 
