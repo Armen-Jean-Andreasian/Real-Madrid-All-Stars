@@ -61,5 +61,14 @@ This project has no licence.
 - If you want to generate reports on the best players only. 
 
 ---
+## Contribution
+
+Feel free to contribute. Run thr `main.py` file, put your input, whenever you are done, you can push changes. 
+As it's an open source repo and will always be you will always have access to `real_madrid.json` file. 
+
+Later on you can create your games, APIs based on that json file.
+
+
+---
 ![img_1.png](github/img_1.png)
 Vamos Real, Hala Madrid
